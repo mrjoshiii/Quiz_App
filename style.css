@@ -19,6 +19,12 @@ body{
   background-image: linear-gradient(to bottom, #2b384c, #003d7a, #003da6, #0034cd, #4805eb);
 } */
 
+@media only screen and (max-width: 600px) {
+  body {
+     width : 60% ;
+  }
+}
+
 .start_btn,
 .info_box,
 .quiz_box,
